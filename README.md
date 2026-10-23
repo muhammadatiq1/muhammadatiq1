@@ -46,7 +46,7 @@ I started as a full-stack engineer (Laravel, WordPress, React) and moved into pr
 | **Roshni Care Home** | Multi-page platform for an NGO supporting people with visual impairments and multiple disabilities | Laravel · Blade · Custom CSS | [Repository](https://github.com/muhammadatiq1/roshni-web) |
 | **GreenScale** | Carbon-footprint tracking and reporting SaaS for businesses | React · FastAPI · MySQL | [Repository](https://github.com/muhammadatiq1/GreenScale-Sustainability-Platform) · [Live](https://green-scale-sustainability-platform.vercel.app) |
 | **Kognit** | Web platform with a typed API — JWT auth, Prisma ORM, validated end-to-end | Next.js · TypeScript · Express · Prisma | [Frontend](https://github.com/muhammadatiq1/kognit-frontend) · [API](https://github.com/muhammadatiq1/kognit-backend) |
-| **Divine Fly** | Travel-agency website for Himalayan tours, flights and visas | React · Vite · Tailwind CSS | [Repository](https://github.com/muhammadatiq1/divinefly-new) · [Live](https://divinefly.vercel.app) |
+| **Divine Fly** | Travel-agency website for Himalayan tours, flights and visas | React · Vite · Tailwind CSS | [Repository](https://github.com/muhammadatiq1/divinefly · [Live](https://divinefly.vercel.app) |
 | **Student Success System** | ML-powered analytics that flag at-risk students early (Random Forest) | Python · Flask · scikit-learn | [Repository](https://github.com/muhammadatiq1/Student-Success-System) · [Live](https://student-success-system-mu.vercel.app) |
 | **My Tasks** | Task management with authentication and real-time UI updates | Laravel 12 · Livewire · Tailwind CSS | [Repository](https://github.com/muhammadatiq1/my-tasks) |
 
