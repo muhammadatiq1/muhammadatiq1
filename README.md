@@ -52,6 +52,28 @@ I started as a full-stack engineer (Laravel, WordPress, React) and moved into pr
 
 ---
 
+## What I build
+
+As Product Manager and developer, I lead and build across these platforms:
+
+| Platform | What it is |
+| --- | --- |
+| **Divine Fly** | Travel agency platform — flight search & booking, ticketing, payments (bank, Easypaisa, JazzCash, Raast) |
+| **divineflydesk** | Internal operations desk for Divine Fly — ticketing, fare calculations, fraud controls |
+| **divineflyagent** | Agent portal for Divine Fly partners — bookings, wallets, and commissions |
+| **iDesire** | Digital-products marketplace and learning platform with Stripe payments |
+| **Falcon Invoice** | Installable PWA for invoicing, billing, and challans with client management and offline support |
+| **Numbrics** | Tax preparation software |
+| **Phone Markaz** | Marketplace for buying and selling mobile phones, built for trust and safety |
+| **FillBs** | Restaurant-management SaaS — POS, billing, and day-to-day food business operations |
+| **DONG** | Hotel-management SaaS — front desk, housekeeping, POS, and billing for independent hotels |
+| **dong-hms** | Management system (HMS) built for the DONG platform |
+| **HostelMarkaz** | Hostel discovery and management — rooms, tenants, and billing |
+| **AgriTrace** | Agriculture supply-chain traceability platform |
+| **HUIC-ETS** | Hamdard University employee transport management system |
+
+---
+
 ## Currently
 
 - **Building Dong** — hotel-management SaaS (front desk, housekeeping, POS and billing) for independent hotels in northern Pakistan
